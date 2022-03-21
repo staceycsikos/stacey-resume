@@ -1,0 +1,26 @@
+{
+  "name": "Stacey Csikos",
+  "website": "https://github.com/staceycsikos?tab=repositories",
+  "linkedin": "https://www.linkedin.com/in/stacey-csikos-0b42a8234/",
+  "github": "staceycsikos",
+  "email": "staceycsikos@icloud.com",
+  "resume": "",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Unagi",
+      "Five Finger Fillet",
+      "Bridge"
+  ]
+}
